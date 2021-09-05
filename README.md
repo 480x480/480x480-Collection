@@ -1,2 +1,4 @@
-# 480x480-Collection
-You can see unique pixel codes.
+480x480 NFT Collection
+just some image pixel codes as an example.
+Script: (X,Y)Hexadecimal ARGB Color Code.
+
