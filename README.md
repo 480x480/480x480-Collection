@@ -2,4 +2,4 @@
 
 When we compare even the first pixel of each picture here we see that each picture is unique.
 
-Script: Number of image (X,Y) Hexadecimal ARGB Color Code.
+Script: Item number (X,Y) Hexadecimal ARGB Color Code.
